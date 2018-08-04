@@ -1,0 +1,22 @@
+body{
+    padding-top: 70px;
+}
+.navbar-inverse input[type="text"]{
+    background:pink;
+    border: none;
+    color:darkcyan;
+}
+.navbar-inverse button[type="submit"]{
+    background:none;
+    border: none;
+    color:cornflowerblue;
+}
+.navbar-inverse form{
+    position: relative;
+    
+}
+.navbar-inverse .glyphicon-search{
+    position:absolute;
+    top:25%;
+    right:10px;
+}
